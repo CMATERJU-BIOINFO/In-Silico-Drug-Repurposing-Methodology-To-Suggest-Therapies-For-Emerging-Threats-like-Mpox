@@ -1,0 +1,1099 @@
+Q9Y5Y6|DB00013|Urokinase
+P22888|DB00014|Goserelin
+P16473|DB00024|Thyrotropin alfa
+P00740|DB00025|"Antihemophilic factor, human recombinant"
+P0C0L5|DB00028|Human immunoglobulin G
+P22888|DB00032|Menotropins
+O95838|DB00040|Glucagon
+Q01362|DB00043|Omalizumab
+P22888|DB00044|Lutropin alfa
+P22888|DB00050|Cetrorelix
+P00450|DB00055|Drotrecogin alfa
+P07339|DB00071|Insulin pork
+P14735|DB00071|Insulin pork
+Q04609|DB00089|Capromab pendetide
+P22888|DB00097|Choriogonadotropin alfa
+Q9Y617|DB00114|Pyridoxal phosphate
+O95470|DB00114|Pyridoxal phosphate
+P22557|DB00114|Pyridoxal phosphate
+P20132|DB00114|Pyridoxal phosphate
+P17174|DB00114|Pyridoxal phosphate
+P32929|DB00114|Pyridoxal phosphate
+Q16719|DB00114|Pyridoxal phosphate
+P06737|DB00114|Pyridoxal phosphate
+Q96A70|DB00114|Pyridoxal phosphate
+Q8IYQ7|DB00114|Pyridoxal phosphate
+Q8IUZ5|DB00114|Pyridoxal phosphate
+Q8N5Z0|DB00114|Pyridoxal phosphate
+P23378|DB00114|Pyridoxal phosphate
+Q8TD30|DB00114|Pyridoxal phosphate
+P80404|DB00114|Pyridoxal phosphate
+Q6ZQY3|DB00114|Pyridoxal phosphate
+P17735|DB00114|Pyridoxal phosphate
+Q9HD40|DB00114|Pyridoxal phosphate
+P04181|DB00114|Pyridoxal phosphate
+Q96EN8|DB00114|Pyridoxal phosphate
+P54687|DB00114|Pyridoxal phosphate
+Q6WRI0|DB00114|Pyridoxal phosphate
+Q9Y4U1|DB00115|Cyanocobalamin
+Q8IVH4|DB00115|Cyanocobalamin
+P22033|DB00115|Cyanocobalamin
+Q00266|DB00118|Ademetionine
+Q9HBK9|DB00118|Ademetionine
+P11498|DB00119|Pyruvic acid
+P80404|DB00119|Pyruvic acid
+Q9NSD9|DB00120|Phenylalanine
+P17735|DB00120|Phenylalanine
+Q96RQ3|DB00121|Biotin
+P11498|DB00121|Biotin
+Q9HCC0|DB00121|Biotin
+P05165|DB00121|Biotin
+P09848|DB00126|Ascorbic acid
+P09172|DB00126|Ascorbic acid
+O00469|DB00126|Ascorbic acid
+Q02809|DB00126|Ascorbic acid
+O75936|DB00126|Ascorbic acid
+P17174|DB00128|Aspartic acid
+P22234|DB00128|Aspartic acid
+Q9UJS0|DB00128|Aspartic acid
+P45381|DB00128|Aspartic acid
+P08243|DB00128|Aspartic acid
+Q8N142|DB00128|Aspartic acid
+P50440|DB00129|Ornithine
+P04181|DB00129|Ornithine
+P78540|DB00129|Ornithine
+P05089|DB00129|Ornithine
+Q06203|DB00130|L-Glutamine
+P49773|DB00131|Adenosine phosphate
+Q9NR19|DB00131|Adenosine phosphate
+P06737|DB00131|Adenosine phosphate
+Q9NUB1|DB00131|Adenosine phosphate
+P55263|DB00131|Adenosine phosphate
+P32418|DB00132|alpha-Linolenic acid
+Q8NER1|DB00132|alpha-Linolenic acid
+P17735|DB00135|Tyrosine
+Q07837|DB00138|Cystine
+P51649|DB00139|Succinic acid
+P55809|DB00139|Succinic acid
+P53597|DB00139|Succinic acid
+Q9BYC2|DB00139|Succinic acid
+Q02809|DB00139|Succinic acid
+Q9P2R7|DB00139|Succinic acid
+O75936|DB00139|Succinic acid
+Q13183|DB00139|Succinic acid
+P15291|DB00141|N-Acetylglucosamine
+P54802|DB00141|N-Acetylglucosamine
+Q9Y617|DB00142|Glutamic acid
+Q9UI32|DB00142|Glutamic acid
+Q8N159|DB00142|Glutamic acid
+O14841|DB00142|Glutamic acid
+Q14833|DB00142|Glutamic acid
+Q16099|DB00142|Glutamic acid
+P17174|DB00142|Glutamic acid
+O00222|DB00142|Glutamic acid
+Q13003|DB00142|Glutamic acid
+Q9ULK0|DB00142|Glutamic acid
+Q9Y646|DB00142|Glutamic acid
+Q8N5Z0|DB00142|Glutamic acid
+Q9UDR5|DB00142|Glutamic acid
+Q04609|DB00142|Glutamic acid
+Q8TD30|DB00142|Glutamic acid
+P08243|DB00142|Glutamic acid
+Q9ULA0|DB00142|Glutamic acid
+P80404|DB00142|Glutamic acid
+O75879|DB00142|Glutamic acid
+Q6IA69|DB00142|Glutamic acid
+P17735|DB00142|Glutamic acid
+P49448|DB00142|Glutamic acid
+Q07075|DB00142|Glutamic acid
+O43424|DB00142|Glutamic acid
+P54687|DB00142|Glutamic acid
+P19440|DB00143|Glutathione
+P15121|DB00143|Glutathione
+P00390|DB00143|Glutathione
+P10768|DB00143|Glutathione
+Q16760|DB00144|Phosphatidyl serine
+Q9Y2Q0|DB00144|Phosphatidyl serine
+P49619|DB00144|Phosphatidyl serine
+Q8WTV0|DB00144|Phosphatidyl serine
+Q9BVG9|DB00144|Phosphatidyl serine
+P22557|DB00145|Glycine
+Q14032|DB00145|Glycine
+P23378|DB00145|Glycine
+P41250|DB00145|Glycine
+P50440|DB00145|Glycine
+P17540|DB00148|Creatine
+P17174|DB00151|Cysteine
+P32929|DB00151|Cysteine
+O95180|DB00153|Ergocalciferol
+Q7Z3S7|DB00153|Ergocalciferol
+Q8IZS8|DB00153|Ergocalciferol
+Q15878|DB00153|Ergocalciferol
+Q6TGC4|DB00155|Citrulline
+Q9ULW8|DB00155|Citrulline
+Q9BW92|DB00156|Threonine
+Q8IYQ7|DB00156|Threonine
+P51649|DB00157|NADH
+Q13423|DB00157|NADH
+P05091|DB00157|NADH
+O60701|DB00157|NADH
+O94788|DB00157|NADH
+P14060|DB00157|NADH
+P00325|DB00157|NADH
+P14679|DB00157|NADH
+P49189|DB00157|NADH
+Q08426|DB00157|NADH
+Q02252|DB00157|NADH
+Q16798|DB00157|NADH
+P30838|DB00157|NADH
+P08319|DB00157|NADH
+P30038|DB00157|NADH
+P47895|DB00157|NADH
+P48448|DB00157|NADH
+Q9UDR5|DB00157|NADH
+P20839|DB00157|NADH
+P43353|DB00157|NADH
+P15121|DB00157|NADH
+Q00796|DB00157|NADH
+P04035|DB00157|NADH
+Q13630|DB00157|NADH
+P49419|DB00157|NADH
+P23368|DB00157|NADH
+O14556|DB00157|NADH
+P11586|DB00157|NADH
+P51659|DB00157|NADH
+P51648|DB00157|NADH
+P49448|DB00157|NADH
+Q6ZMR3|DB00157|NADH
+P00390|DB00157|NADH
+P40394|DB00157|NADH
+Q9UBM7|DB00157|NADH
+P32418|DB00159|Icosapent
+Q8NER1|DB00159|Icosapent
+P23219|DB00159|Icosapent
+P54687|DB00161|Valine
+O94788|DB00162|Vitamin A
+Q8TC12|DB00162|Vitamin A
+Q9HBH5|DB00162|Vitamin A
+Q6NUM9|DB00162|Vitamin A
+P47895|DB00162|Vitamin A
+P23743|DB00163|Vitamin E
+Q9UDX3|DB00163|Vitamin E
+Q9UDX4|DB00163|Vitamin E
+Q9Y234|DB00166|Lipoic acid
+O43766|DB00166|Lipoic acid
+P00740|DB00170|Menadione
+P22891|DB00170|Menadione
+Q9BY49|DB00173|Adenine
+Q13126|DB00173|Adenine
+Q96I59|DB00174|Asparagine
+P08243|DB00174|Asparagine
+Q99624|DB00174|Asparagine
+O43776|DB00174|Asparagine
+P04035|DB00175|Pravastatin
+P27338|DB00182|Amphetamine
+P27338|DB00182|Amphetamine
+P21397|DB00182|Amphetamine
+P11511|DB00184|Nicotine
+P43681|DB00184|Nicotine
+P17787|DB00184|Nicotine
+Q15822|DB00184|Nicotine
+Q8N1C3|DB00186|Lorazepam
+P47869|DB00186|Lorazepam
+P48169|DB00186|Lorazepam
+Q8N1C3|DB00189|Ethchlorvynol
+P47869|DB00189|Ethchlorvynol
+P48169|DB00189|Ethchlorvynol
+P27338|DB00191|Phentermine
+P21397|DB00191|Phentermine
+Q8NER1|DB00193|Tramadol
+Q9Y4U1|DB00200|Hydroxocobalamin
+Q8IVH4|DB00200|Hydroxocobalamin
+P22033|DB00200|Hydroxocobalamin
+Q14571|DB00201|Caffeine
+O60658|DB00201|Caffeine
+Q9Y233|DB00201|Caffeine
+O76074|DB00201|Caffeine
+O76074|DB00201|Caffeine
+O00408|DB00201|Caffeine
+P51160|DB00201|Caffeine
+O95263|DB00201|Caffeine
+P16499|DB00201|Caffeine
+O76074|DB00203|Sildenafil
+P20648|DB00213|Pantoprazole
+P55011|DB00214|Torasemide
+Q13621|DB00214|Torasemide
+P48048|DB00217|Bethanidine
+P48048|DB00222|Glimepiride
+P04035|DB00227|Lovastatin
+Q8N1C3|DB00228|Enflurane
+P98194|DB00228|Enflurane
+P47869|DB00228|Enflurane
+P48169|DB00228|Enflurane
+Q8N1C3|DB00231|Temazepam
+Q8N1C3|DB00231|Temazepam
+P47869|DB00231|Temazepam
+P47869|DB00231|Temazepam
+P24046|DB00231|Temazepam
+P48169|DB00231|Temazepam
+P48169|DB00231|Temazepam
+Q13621|DB00232|Methyclothiazide
+Q8N1C3|DB00237|Butabarbital
+P43681|DB00237|Butabarbital
+P47869|DB00237|Butabarbital
+P48169|DB00237|Butabarbital
+Q8N1C3|DB00241|Butalbital
+P43681|DB00241|Butalbital
+P47869|DB00241|Butalbital
+P47869|DB00241|Butalbital
+P48169|DB00241|Butalbital
+P48169|DB00241|Butalbital
+Q9UNX9|DB00243|Ranolazine
+P63252|DB00243|Ranolazine
+Q9UI33|DB00243|Ranolazine
+Q9Y5Y9|DB00243|Ranolazine
+Q9NY46|DB00243|Ranolazine
+Q8IWT1|DB00243|Ranolazine
+P23219|DB00244|Mesalazine
+Q8N1C3|DB00252|Phenytoin
+P47869|DB00252|Phenytoin
+Q9NY46|DB00252|Phenytoin
+P48169|DB00252|Phenytoin
+P00390|DB00262|Carmustine
+Q08257|DB00266|Dicoumarol
+O95180|DB00270|Isradipine
+Q16099|DB00273|Topiramate
+Q9UI33|DB00273|Topiramate
+Q13003|DB00273|Topiramate
+Q15878|DB00273|Topiramate
+Q9Y5Y9|DB00273|Topiramate
+Q9NY46|DB00273|Topiramate
+O76074|DB00277|Theophylline
+Q15155|DB00277|Theophylline
+Q9UK17|DB00280|Disopyramide
+Q9Y5Y9|DB00281|Lidocaine
+O43451|DB00284|Acarbose
+P10253|DB00284|Acarbose
+Q8N1C3|DB00292|Etomidate
+P47869|DB00292|Etomidate
+P48169|DB00292|Etomidate
+Q9Y5Y9|DB00296|Ropivacaine
+Q9Y5Y9|DB00297|Bupivacaine
+Q8N1C3|DB00306|Talbutal
+P43681|DB00306|Talbutal
+P47869|DB00306|Talbutal
+P47869|DB00306|Talbutal
+P48169|DB00306|Talbutal
+P48169|DB00306|Talbutal
+Q9NS40|DB00308|Ibutilide
+Q9H4B7|DB00309|Vindesine
+Q13621|DB00310|Chlorthalidone
+Q8N1C3|DB00312|Pentobarbital
+P43681|DB00312|Pentobarbital
+P47869|DB00312|Pentobarbital
+P47869|DB00312|Pentobarbital
+P48169|DB00312|Pentobarbital
+P48169|DB00312|Pentobarbital
+P51649|DB00313|Valproic acid
+Q9UI33|DB00313|Valproic acid
+Q9Y5Y9|DB00313|Valproic acid
+Q9NY46|DB00313|Valproic acid
+Q8IWT1|DB00313|Valproic acid
+Q8NER1|DB00316|Acetaminophen
+P23219|DB00316|Acetaminophen
+Q9NS40|DB00321|Amitriptyline
+O43526|DB00321|Amitriptyline
+P16066|DB00325|Nitroprusside
+P23219|DB00328|Indomethacin
+Q8N8N7|DB00328|Indomethacin
+Q16134|DB00331|Metformin
+P43681|DB00333|Methadone
+P17787|DB00333|Methadone
+Q8N1C3|DB00334|Olanzapine
+P47869|DB00334|Olanzapine
+P48169|DB00334|Olanzapine
+P20648|DB00338|Omeprazole
+Q8N1C3|DB00349|Clobazam
+P47869|DB00349|Clobazam
+P48169|DB00349|Clobazam
+P48048|DB00350|Minoxidil
+P23219|DB00350|Minoxidil
+P00797|DB00350|Minoxidil
+Q12791|DB00356|Chlorzoxazone
+P11511|DB00357|Aminoglutethimide
+Q8N1C3|DB00371|Meprobamate
+P47869|DB00371|Meprobamate
+P47869|DB00371|Meprobamate
+P48169|DB00371|Meprobamate
+P48169|DB00371|Meprobamate
+Q8IZS8|DB00381|Amlodipine
+P23141|DB00382|Tacrine
+P36888|DB00398|Sorafenib
+O95749|DB00399|Zoledronic acid
+Q8N1C3|DB00402|Eszopiclone
+P47869|DB00402|Eszopiclone
+P47869|DB00402|Eszopiclone
+P48169|DB00402|Eszopiclone
+Q8N1C3|DB00404|Alprazolam
+P47869|DB00404|Alprazolam
+P47869|DB00404|Alprazolam
+P48169|DB00404|Alprazolam
+P48169|DB00404|Alprazolam
+Q15822|DB00411|Carbamoylcholine
+P48048|DB00414|Acetohexamide
+Q16348|DB00415|Ampicillin
+Q15822|DB00416|Metocurine iodide
+P43681|DB00418|Secobarbital
+P47869|DB00418|Secobarbital
+P48169|DB00418|Secobarbital
+O95180|DB00421|Spironolactone
+Q7Z3S7|DB00421|Spironolactone
+Q8IZS8|DB00421|Spironolactone
+Q15878|DB00421|Spironolactone
+P47869|DB00425|Zolpidem
+P24046|DB00431|Lindane
+Q12791|DB00436|Bendroflumethiazide
+P47989|DB00437|Allopurinol
+P04035|DB00439|Cerivastatin
+P20648|DB00448|Lansoprazole
+P23141|DB00454|Meperidine
+Q9UK17|DB00458|Imipramine
+O95259|DB00458|Imipramine
+P23219|DB00461|Nabumetone
+P23219|DB00465|Ketorolac
+P23219|DB00469|Tenoxicam
+Q15822|DB00472|Fluoxetine
+Q9Y5Y9|DB00473|Hexylcaine
+Q8N1C3|DB00475|Chlordiazepoxide
+P47869|DB00475|Chlordiazepoxide
+P48169|DB00475|Chlordiazepoxide
+Q15822|DB00483|Gallamine triethiodide
+O43451|DB00491|Miglitol
+Q14697|DB00491|Miglitol
+P10253|DB00491|Miglitol
+Q8TET4|DB00491|Miglitol
+Q16348|DB00493|Cefotaxime
+P23219|DB00500|Tolmetin
+P43681|DB00514|Dextromethorphan
+P17787|DB00514|Dextromethorphan
+Q15822|DB00514|Dextromethorphan
+P68371|DB00518|Albendazole
+Q9Y5Y9|DB00527|Cinchocaine
+P51649|DB00534|Chlormerodrin
+Q13621|DB00534|Chlormerodrin
+P05091|DB00536|Guanidine
+Q8N1C3|DB00543|Amoxapine
+P47869|DB00543|Amoxapine
+P48169|DB00543|Amoxapine
+P51857|DB00548|Azelaic acid
+P14679|DB00548|Azelaic acid
+P39900|DB00551|Acetohydroxamic acid
+P23219|DB00554|Piroxicam
+Q8N1C3|DB00555|Lamotrigine
+Q8N1C3|DB00555|Lamotrigine
+P47869|DB00555|Lamotrigine
+P47869|DB00555|Lamotrigine
+Q15878|DB00555|Lamotrigine
+P48169|DB00555|Lamotrigine
+P48169|DB00555|Lamotrigine
+O43570|DB00562|Benzthiazide
+Q9UI33|DB00564|Carbamazepine
+P43681|DB00564|Carbamazepine
+Q9Y5Y9|DB00564|Carbamazepine
+Q9NY46|DB00564|Carbamazepine
+Q15822|DB00565|Cisatracurium
+O95180|DB00568|Cinnarizine
+Q9UJT1|DB00570|Vinblastine
+Q9UJT0|DB00570|Vinblastine
+P43681|DB00572|Atropine
+P17787|DB00572|Atropine
+P23219|DB00573|Fenoprofen
+P43155|DB00583|Levocarnitine
+P23786|DB00583|Levocarnitine
+P47989|DB00583|Levocarnitine
+P23141|DB00583|Levocarnitine
+Q9UKG9|DB00583|Levocarnitine
+P50416|DB00583|Levocarnitine
+P23219|DB00586|Diclofenac
+Q9NS40|DB00590|Doxazosin
+P19801|DB00594|Amiloride
+Q16515|DB00594|Amiloride
+P43681|DB00599|Thiopental
+P47869|DB00599|Thiopental
+P48169|DB00599|Thiopental
+P14679|DB00600|Monobenzone
+Q8N1C3|DB00603|Medroxyprogesterone acetate
+P47869|DB00603|Medroxyprogesterone acetate
+P48169|DB00603|Medroxyprogesterone acetate
+O60218|DB00605|Sulindac
+P15121|DB00605|Sulindac
+P23219|DB00605|Sulindac
+P14735|DB00626|Bacitracin
+Q8N1C3|DB00628|Clorazepic acid
+P47869|DB00628|Clorazepic acid
+P48169|DB00628|Clorazepic acid
+O95259|DB00637|Astemizole
+P04035|DB00641|Simvastatin
+P22102|DB00642|Pemetrexed
+P68371|DB00643|Mebendazole
+Q9Y5Y9|DB00645|Dyclonine
+P23141|DB00647|Dextropropoxyphene
+P11511|DB00655|Estrone
+P43681|DB00657|Mecamylamine
+P17787|DB00657|Mecamylamine
+Q15822|DB00657|Mecamylamine
+Q8N1C3|DB00659|Acamprosate
+P41594|DB00659|Acamprosate
+P47869|DB00659|Acamprosate
+P48169|DB00659|Acamprosate
+O95180|DB00661|Verapamil
+P43681|DB00674|Galantamine
+P11230|DB00674|Galantamine
+P17787|DB00674|Galantamine
+Q15822|DB00674|Galantamine
+P47869|DB00683|Midazolam
+P48169|DB00683|Midazolam
+P20839|DB00688|Mycophenolate mofetil
+Q03393|DB00688|Mycophenolate mofetil
+Q8N1C3|DB00690|Flurazepam
+P47869|DB00690|Flurazepam
+P24046|DB00690|Flurazepam
+P48169|DB00690|Flurazepam
+Q9BYF1|DB00691|Moexipril
+Q13621|DB00695|Furosemide
+P43166|DB00703|Methazolamide
+P23219|DB00711|Diethylcarbamazine
+P23219|DB00712|Flurbiprofen
+Q16348|DB00713|Oxacillin
+Q8WXA8|DB00715|Paroxetine
+Q12791|DB00721|Procaine
+P27338|DB00721|Procaine
+P21397|DB00721|Procaine
+Q9Y5Y9|DB00721|Procaine
+Q15822|DB00721|Procaine
+P00797|DB00722|Lisinopril
+Q9NYK1|DB00724|Imiquimod
+P16066|DB00727|Nitroglycerin
+Q15822|DB00728|Rocuronium
+Q15822|DB00732|Atracurium besylate
+P20648|DB00736|Esomeprazole
+O14717|DB00738|Pentamidine
+P43681|DB00747|Scopolamine
+P17787|DB00747|Scopolamine
+P23219|DB00749|Etodolac
+P27338|DB00752|Tranylcypromine
+P21397|DB00752|Tranylcypromine
+Q8N1C3|DB00753|Isoflurane
+P43681|DB00753|Isoflurane
+P98194|DB00753|Isoflurane
+P47869|DB00753|Isoflurane
+P17787|DB00753|Isoflurane
+P48169|DB00753|Isoflurane
+O94788|DB00755|Tretinoin
+O43174|DB00755|Tretinoin
+P55011|DB00761|Potassium chloride
+Q13621|DB00761|Potassium chloride
+Q12791|DB00774|Hydroflumethiazide
+O43570|DB00774|Hydroflumethiazide
+Q13621|DB00774|Hydroflumethiazide
+Q9UI33|DB00776|Oxcarbazepine
+Q9Y5Y9|DB00776|Oxcarbazepine
+Q9NY46|DB00776|Oxcarbazepine
+Q8IWT1|DB00776|Oxcarbazepine
+P27338|DB00780|Phenelzine
+Q16853|DB00780|Phenelzine
+P21397|DB00780|Phenelzine
+Q8TD30|DB00780|Phenelzine
+P80404|DB00780|Phenelzine
+P43681|DB00783|Estradiol
+P23219|DB00784|Mefenamic acid
+P23219|DB00788|Naproxen
+P52209|DB00789|Gadopentetic acid
+Q8N1C3|DB00794|Primidone
+P43681|DB00794|Primidone
+P47869|DB00794|Primidone
+P47869|DB00794|Primidone
+P48169|DB00794|Primidone
+P48169|DB00794|Primidone
+P24752|DB00795|Sulfasalazine
+P23219|DB00795|Sulfasalazine
+Q8N1C3|DB00801|Halazepam
+Q8N1C3|DB00801|Halazepam
+P47869|DB00801|Halazepam
+P47869|DB00801|Halazepam
+P24046|DB00801|Halazepam
+P48169|DB00801|Halazepam
+P21397|DB00805|Minaprine
+P21589|DB00806|Pentoxifylline
+O76074|DB00806|Pentoxifylline
+Q9Y5Y9|DB00807|Proparacaine
+Q15822|DB00810|Biperiden
+P20839|DB00811|Ribavirin
+Q16647|DB00812|Phenylbutazone
+P23219|DB00812|Phenylbutazone
+P23219|DB00814|Meloxicam
+Q8N1C3|DB00818|Propofol
+P47869|DB00818|Propofol
+P48169|DB00818|Propofol
+O43570|DB00819|Acetazolamide
+P43166|DB00819|Acetazolamide
+O76074|DB00820|Tadalafil
+P23219|DB00821|Carprofen
+P05091|DB00822|Disulfiram
+P09172|DB00822|Disulfiram
+O75762|DB00825|Levomenthol
+Q7Z2W7|DB00825|Levomenthol
+Q8N1C3|DB00829|Diazepam
+Q8N1C3|DB00829|Diazepam
+P47869|DB00829|Diazepam
+P47869|DB00829|Diazepam
+P24046|DB00829|Diazepam
+P48169|DB00829|Diazepam
+Q8N1C3|DB00842|Oxazepam
+Q8N1C3|DB00842|Oxazepam
+P47869|DB00842|Oxazepam
+P47869|DB00842|Oxazepam
+P24046|DB00842|Oxazepam
+P48169|DB00842|Oxazepam
+P48169|DB00842|Oxazepam
+O95342|DB00845|Clofazimine
+P49146|DB00847|Cysteamine
+P43681|DB00849|Methylphenobarbital
+P47869|DB00849|Methylphenobarbital
+P48169|DB00849|Methylphenobarbital
+P52209|DB00851|Dacarbazine
+P23219|DB00861|Diflunisal
+O76074|DB00862|Vardenafil
+P23219|DB00870|Suprofen
+P16066|DB00883|Isosorbide dinitrate
+P55011|DB00887|Bumetanide
+Q13621|DB00887|Bumetanide
+Q9Y5Y9|DB00892|Oxybuprocaine
+P11511|DB00894|Testolactone
+Q8N1C3|DB00897|Triazolam
+Q8N1C3|DB00897|Triazolam
+P47869|DB00897|Triazolam
+P47869|DB00897|Triazolam
+P24046|DB00897|Triazolam
+P48169|DB00897|Triazolam
+P48169|DB00897|Triazolam
+Q8N1C3|DB00898|Ethanol
+P43681|DB00898|Ethanol
+Q8WXA8|DB00898|Ethanol
+P47869|DB00898|Ethanol
+P17787|DB00898|Ethanol
+P48169|DB00898|Ethanol
+Q15822|DB00898|Ethanol
+Q13621|DB00903|Etacrynic acid
+Q9UI33|DB00907|Cocaine
+P23141|DB00907|Cocaine
+Q9Y5Y9|DB00907|Cocaine
+O43570|DB00909|Zonisamide
+P27338|DB00909|Zonisamide
+O95180|DB00909|Zonisamide
+Q9Y2D0|DB00909|Zonisamide
+Q9UI33|DB00909|Zonisamide
+P21397|DB00909|Zonisamide
+P23280|DB00909|Zonisamide
+Q9NY46|DB00909|Zonisamide
+P43166|DB00909|Zonisamide
+Q8IWT1|DB00909|Zonisamide
+P43681|DB00915|Amantadine
+P52209|DB00920|Ketotifen
+Q06278|DB00924|Cyclobenzaprine
+P23219|DB00936|Salicylic acid
+P23219|DB00939|Meclofenamic acid
+O43526|DB00939|Meclofenamic acid
+P23219|DB00945|Acetylsalicylic acid
+Q9Y5Y9|DB00961|Mepivacaine
+P23219|DB00963|Bromfenac
+P15144|DB00973|Ezetimibe
+Q9Y233|DB00975|Dipyridamole
+O76074|DB00975|Dipyridamole
+P43681|DB00981|Physostigmine
+P17787|DB00981|Physostigmine
+P09172|DB00988|Dopamine
+P11511|DB00990|Exemestane
+P23219|DB00991|Oxaprozin
+Q12791|DB00999|Hydrochlorothiazide
+Q9Y5Y9|DB01002|Levobupivacaine
+Q12791|DB01003|Cromoglicic acid
+P11511|DB01006|Letrozole
+P23219|DB01009|Ketoprofen
+P23219|DB01014|Balsalazide
+O95342|DB01016|Glyburide
+P50416|DB01016|Glyburide
+O95180|DB01023|Felodipine
+P20839|DB01024|Mycophenolic acid
+Q8N1C3|DB01028|Methoxyflurane
+P98194|DB01028|Methoxyflurane
+P47869|DB01028|Methoxyflurane
+P48169|DB01028|Methoxyflurane
+P20839|DB01033|Mercaptopurine
+Q06203|DB01033|Mercaptopurine
+P27338|DB01037|Selegiline
+P21397|DB01037|Selegiline
+Q8N1C3|DB01043|Memantine
+P47869|DB01043|Memantine
+P48169|DB01043|Memantine
+Q8WXA8|DB01049|Ergoloid mesylate
+P23219|DB01050|Ibuprofen
+Q16348|DB01053|Benzylpenicillin
+O95180|DB01054|Nitrendipine
+P11678|DB01065|Melatonin
+Q8N1C3|DB01068|Clonazepam
+P47869|DB01068|Clonazepam
+P48169|DB01068|Clonazepam
+P27707|DB01073|Fludarabine
+P23786|DB01074|Perhexiline
+P50416|DB01074|Perhexiline
+P04035|DB01076|Atorvastatin
+P80404|DB01080|Vigabatrin
+Q9Y5Y9|DB01086|Benzocaine
+P50993|DB01092|Ouabain
+P04035|DB01095|Fluvastatin
+P04035|DB01098|Rosuvastatin
+Q8N1C3|DB01107|Methyprylon
+P47869|DB01107|Methyprylon
+P48169|DB01107|Methyprylon
+P14060|DB01108|Trilostane
+Q12791|DB01110|Miconazole
+Q9NS40|DB01110|Miconazole
+Q9Y233|DB01113|Papaverine
+O95180|DB01115|Nifedipine
+O95180|DB01118|Amiodarone
+Q12791|DB01119|Diazoxide
+P48048|DB01124|Tolbutamide
+P20648|DB01129|Rabeprazole
+P27338|DB01132|Pioglitazone
+Q15822|DB01135|Doxacurium
+P63252|DB01136|Carvedilol
+P33527|DB01138|Sulfinpyrazone
+P43166|DB01144|Diclofenamide
+Q12791|DB01159|Halothane
+Q8N1C3|DB01159|Halothane
+P98194|DB01159|Halothane
+P47869|DB01159|Halothane
+P48169|DB01159|Halothane
+Q9Y5Y9|DB01161|Chloroprocaine
+Q9NS40|DB01162|Terazosin
+P27338|DB01168|Procarbazine
+P21397|DB01168|Procarbazine
+P27338|DB01171|Moclobemide
+P27338|DB01171|Moclobemide
+P21397|DB01171|Moclobemide
+P21397|DB01171|Moclobemide
+Q9Y5Y9|DB01173|Orphenadrine
+P43681|DB01174|Phenobarbital
+P23141|DB01183|Naloxone
+Q8N1C3|DB01189|Desflurane
+P98194|DB01189|Desflurane
+P47869|DB01189|Desflurane
+P48169|DB01189|Desflurane
+P47869|DB01198|Zopiclone
+Q15822|DB01199|Tubocurarine
+Q8N1C3|DB01205|Flumazenil
+P47869|DB01205|Flumazenil
+P48169|DB01205|Flumazenil
+P00325|DB01213|Fomepizole
+Q8N1C3|DB01215|Estazolam
+Q8N1C3|DB01215|Estazolam
+P47869|DB01215|Estazolam
+P47869|DB01215|Estazolam
+P24046|DB01215|Estazolam
+P48169|DB01215|Estazolam
+P51857|DB01216|Finasteride
+P11511|DB01217|Anastrozole
+Q15822|DB01226|Mivacurium
+Q9H4B7|DB01229|Paclitaxel
+Q8N1C3|DB01236|Sevoflurane
+P98194|DB01236|Sevoflurane
+P47869|DB01236|Sevoflurane
+P48169|DB01236|Sevoflurane
+Q16647|DB01240|Epoprostenol
+O95180|DB01244|Bepridil
+P43681|DB01245|Decamethonium
+P17787|DB01245|Decamethonium
+Q15822|DB01245|Decamethonium
+P27338|DB01247|Isocarboxazid
+P21397|DB01247|Isocarboxazid
+Q9H4B7|DB01248|Docetaxel
+P51580|DB01250|Olsalazine
+Q06203|DB01254|Dasatinib
+P54760|DB01254|Dasatinib
+Q9NYL2|DB01254|Dasatinib
+P54756|DB01254|Dasatinib
+P36888|DB01268|Sunitinib
+P43681|DB01273|Varenicline
+P17787|DB01273|Varenicline
+Q16853|DB01275|Hydralazine
+P23219|DB01283|Lumiracoxib
+P55011|DB01325|Quinethazone
+Q13621|DB01325|Quinethazone
+Q15822|DB01336|Metocurine
+Q15822|DB01337|Pancuronium
+Q15822|DB01338|Pipecuronium
+Q15822|DB01339|Vecuronium
+P47869|DB01346|Quinidine barbiturate
+P43681|DB01351|Amobarbital
+P47869|DB01351|Amobarbital
+P48169|DB01351|Amobarbital
+P43681|DB01353|Butobarbital
+P47869|DB01353|Butobarbital
+P48169|DB01353|Butobarbital
+P27338|DB01367|Rasagiline
+P19801|DB01373|Calcium
+P98194|DB01373|Calcium
+Q8TAB3|DB01373|Calcium
+P00450|DB01373|Calcium
+P48048|DB01382|Glymidine
+Q9UNX9|DB01392|Yohimbine
+P48048|DB01392|Yohimbine
+P78508|DB01392|Yohimbine
+P23219|DB01399|Salsalate
+P23219|DB01401|Choline magnesium trisalicylate
+P23219|DB01419|Antrafenine
+P23219|DB01435|Antipyrine
+Q8N1C3|DB01437|Glutethimide
+P47869|DB01437|Glutethimide
+P48169|DB01437|Glutethimide
+P23141|DB01452|Diamorphine
+P47869|DB01544|Flunitrazepam
+P48169|DB01544|Flunitrazepam
+Q8N1C3|DB01558|Bromazepam
+P47869|DB01558|Bromazepam
+P24046|DB01558|Bromazepam
+P48169|DB01558|Bromazepam
+Q8N1C3|DB01559|Clotiazepam
+P47869|DB01559|Clotiazepam
+P24046|DB01559|Clotiazepam
+P27338|DB01577|Metamfetamine
+P21397|DB01577|Metamfetamine
+Q8N1C3|DB01587|Ketazolam
+Q8N1C3|DB01588|Prazepam
+Q8N1C3|DB01588|Prazepam
+P47869|DB01588|Prazepam
+P47869|DB01588|Prazepam
+P24046|DB01588|Prazepam
+P48169|DB01588|Prazepam
+Q8N1C3|DB01589|Quazepam
+Q8N1C3|DB01589|Quazepam
+P47869|DB01589|Quazepam
+P47869|DB01589|Quazepam
+P24046|DB01589|Quazepam
+P48169|DB01589|Quazepam
+Q9BY41|DB01592|Iron
+P00450|DB01592|Iron
+P49411|DB01593|Zinc
+Q06033|DB01593|Zinc
+P08185|DB01593|Zinc
+P0C0L5|DB01593|Zinc
+P45381|DB01593|Zinc
+Q9BY41|DB01593|Zinc
+O14556|DB01593|Zinc
+P01871|DB01593|Zinc
+P00450|DB01593|Zinc
+Q8N1C3|DB01595|Nitrazepam
+P47869|DB01595|Nitrazepam
+P24046|DB01595|Nitrazepam
+P48169|DB01595|Nitrazepam
+P23141|DB01599|Probucol
+P23219|DB01600|Tiaprofenic acid
+Q9NYK1|DB01611|Hydroxychloroquine
+P16066|DB01612|Amyl Nitrite
+P16066|DB01613|Erythrityl tetranitrate
+P27338|DB01626|Pargyline
+P21397|DB01626|Pargyline
+Q8N1C3|DB01708|Prasterone
+P47869|DB01708|Prasterone
+P48169|DB01708|Prasterone
+Q8NER1|DB01744|Camphor
+O75762|DB01744|Camphor
+Q7Z2W7|DB01744|Camphor
+Q8N1C3|DB01956|Taurine
+P47869|DB01956|Taurine
+P48169|DB01956|Taurine
+P23219|DB02266|Flufenamic acid
+Q7Z4W1|DB02325|Isopropyl alcohol
+O60942|DB02325|Isopropyl alcohol
+P50440|DB02530|gamma-Aminobutyric acid
+Q9BY41|DB02546|Vorinostat
+P23141|DB02659|Cholic Acid
+P23219|DB02709|Resveratrol
+Q8TE23|DB02772|Sucrose
+Q13621|DB02925|Piretanide
+P27338|DB03147|Flavin adenine dinucleotide
+Q15067|DB03147|Flavin adenine dinucleotide
+P21397|DB03147|Flavin adenine dinucleotide
+Q12882|DB03147|Flavin adenine dinucleotide
+Q96RQ9|DB03147|Flavin adenine dinucleotide
+P47989|DB03147|Flavin adenine dinucleotide
+P26440|DB03147|Flavin adenine dinucleotide
+P00390|DB03147|Flavin adenine dinucleotide
+Q12882|DB03247|Flavin mononucleotide
+P00390|DB03310|Glutathione disulfide
+Q7Z2Z2|DB03619|Deoxycholic acid
+P05089|DB03904|Urea
+Q12791|DB04209|Dequalinium
+O76074|DB04272|Citric acid
+Q96RQ9|DB04272|Citric acid
+Q9Y663|DB04272|Citric acid
+P15121|DB04272|Citric acid
+P15086|DB04272|Citric acid
+P19835|DB04348|Taurocholic acid
+P09848|DB04564|Gluconolactone
+P23219|DB04817|Metamizole
+P27338|DB04820|Nialamide
+P21397|DB04820|Nialamide
+P27338|DB04821|Nomifensine
+P21397|DB04821|Nomifensine
+P27338|DB04832|Zimelidine
+P21397|DB04832|Zimelidine
+P23141|DB04838|Cyclandelate
+O95180|DB04841|Flunarizine
+P47989|DB04854|Febuxostat
+P32418|DB04855|Dronedarone
+Q9UNX9|DB04855|Dronedarone
+P63252|DB04855|Dronedarone
+Q9UK17|DB04855|Dronedarone
+P16066|DB04899|Nesiritide
+O43526|DB04953|Ezogabine
+Q9BY41|DB05015|Belinostat
+P20648|DB05351|Dexlansoprazole
+Q9UI33|DB05541|Brivaracetam
+Q9Y5Y9|DB05541|Brivaracetam
+Q9NY46|DB05541|Brivaracetam
+Q8IWT1|DB05541|Brivaracetam
+P49190|DB05829|Parathyroid hormone
+P33527|DB06176|Romidepsin
+P15144|DB06196|Icatibant
+P41594|DB06201|Rufinamide
+Q9UK17|DB06217|Vernakalant
+Q9Y5Y9|DB06218|Lacosamide
+Q9NY46|DB06218|Lacosamide
+O76074|DB06237|Avanafil
+O76074|DB06267|Udenafil
+P36888|DB06595|Midostaurin
+Q9BY41|DB06603|Panobinostat
+Q16322|DB06637|Dalfampridine
+Q9UK17|DB06637|Dalfampridine
+P27338|DB06654|Safinamide
+P15309|DB06688|Sipuleucel-T
+P07477|DB06692|Aprotinin
+P17538|DB06692|Aprotinin
+Q8IZS8|DB06712|Nilvadipine
+P22888|DB06719|Buserelin
+P23219|DB06725|Lornoxicam
+P23219|DB06736|Aceclofenac
+P05089|DB06757|Manganese
+Q9H4B7|DB06772|Cabazitaxel
+Q8NER1|DB06774|Capsaicin
+P31327|DB06775|Carglumic acid
+P23280|DB06795|Mafenide
+P23219|DB06802|Nepafenac
+Q9Y233|DB08814|Triflusal
+P23219|DB08814|Triflusal
+Q14520|DB08818|Hyaluronic acid
+P04035|DB08860|Pitavastatin
+Q9H4B7|DB08871|Eribulin
+P25092|DB08890|Linaclotide
+O95838|DB08900|Teduglutide
+P36888|DB08901|Ponatinib
+P00797|DB09026|Aliskiren
+O95180|DB09061|Cannabidiol
+Q9HBA0|DB09061|Cannabidiol
+Q8NER1|DB09061|Cannabidiol
+P24752|DB09061|Cannabidiol
+P04035|DB09061|Cannabidiol
+P23219|DB09061|Cannabidiol
+O75762|DB09061|Cannabidiol
+Q7Z2W7|DB09061|Cannabidiol
+P00390|DB09061|Cannabidiol
+P36888|DB09079|Nintedanib
+Q9UI33|DB09085|Tetracaine
+Q9Y5Y9|DB09085|Tetracaine
+Q9NY46|DB09085|Tetracaine
+Q9UI33|DB09088|Amylocaine
+Q9Y5Y9|DB09088|Amylocaine
+Q9NY46|DB09088|Amylocaine
+Q12791|DB09089|Trimebutine
+O95180|DB09089|Trimebutine
+Q13423|DB09092|Xanthinol
+P00740|DB09109|Turoctocog alfa
+P48448|DB09116|Calcium carbimide
+Q8N1C3|DB09118|Stiripentol
+P47869|DB09118|Stiripentol
+P48169|DB09118|Stiripentol
+Q8NER1|DB09120|Zucapsaicin
+P22888|DB09126|Chorionic Gonadotropin (Human)
+Q6MZM0|DB09130|Copper
+O60701|DB09130|Copper
+P17174|DB09130|Copper
+P43652|DB09130|Copper
+P08185|DB09130|Copper
+P0C0L5|DB09130|Copper
+P14550|DB09130|Copper
+P00390|DB09130|Copper
+P63244|DB09130|Copper
+P23219|DB09212|Loxoprofen
+P23219|DB09213|Dexibuprofen
+P23219|DB09214|Dexketoprofen
+P23219|DB09216|Tolfenamic acid
+O95180|DB09238|Manidipine
+Q12882|DB09257|Gimeracil
+Q12882|DB09327|Tegafur-uracil
+P00740|DB09332|Kappadione
+Q9UI33|DB09342|Propoxycaine
+Q9Y5Y9|DB09342|Propoxycaine
+Q9NY46|DB09342|Propoxycaine
+Q9UI33|DB09345|Pramocaine
+Q9Y5Y9|DB09345|Pramocaine
+Q9NY46|DB09345|Pramocaine
+O43252|DB09462|Glycerin
+P00325|DB09462|Glycerin
+P17050|DB09462|Glycerin
+O14717|DB09462|Glycerin
+P14679|DB09526|Hydroquinone
+P30084|DB09568|Omega-3-carboxylic acids
+P23219|DB11071|Phenyl salicylate
+P23219|DB11079|Trolamine salicylate
+Q96L12|DB11093|Calcium Citrate
+Q15493|DB11093|Calcium Citrate
+Q8NER1|DB11131|Capsicum oleoresin
+O95180|DB11148|Butamben
+Q9UNX9|DB11148|Butamben
+Q9HBA0|DB11148|Butamben
+P48048|DB11148|Butamben
+Q7Z3S7|DB11148|Butamben
+Q8IZS8|DB11148|Butamben
+Q15878|DB11148|Butamben
+O75762|DB11148|Butamben
+P78508|DB11148|Butamben
+Q9UI33|DB11186|Pentoxyverine
+Q9Y5Y9|DB11186|Pentoxyverine
+Q9NY46|DB11186|Pentoxyverine
+P23219|DB11201|Menthyl salicylate
+P14679|DB11217|Arbutin
+P14679|DB11254|Hexylresorcinol
+Q8WXA8|DB11273|Dihydroergocornine
+P23219|DB11323|Glycol salicylate
+Q96L12|DB11348|Calcium Phosphate
+Q15493|DB11348|Calcium Phosphate
+Q9UK17|DB11633|Isavuconazole
+O15440|DB11672|Curcumin
+Q8N1C3|DB11859|Brexanolone
+P47869|DB11859|Brexanolone
+P48169|DB11859|Brexanolone
+Q8N1C3|DB11901|Apalutamide
+P47869|DB11901|Apalutamide
+P48169|DB11901|Apalutamide
+P36888|DB12010|Fostamatinib
+Q8NI60|DB12010|Fostamatinib
+Q9H3Y6|DB12010|Fostamatinib
+Q86V86|DB12010|Fostamatinib
+Q8IU85|DB12010|Fostamatinib
+Q9P2K8|DB12010|Fostamatinib
+O76074|DB12010|Fostamatinib
+Q9UF33|DB12010|Fostamatinib
+Q9UK32|DB12010|Fostamatinib
+Q12866|DB12010|Fostamatinib
+Q8N5S9|DB12010|Fostamatinib
+P54760|DB12010|Fostamatinib
+P54762|DB12010|Fostamatinib
+O15146|DB12010|Fostamatinib
+Q00532|DB12010|Fostamatinib
+Q9NYL2|DB12010|Fostamatinib
+Q92772|DB12010|Fostamatinib
+P54756|DB12010|Fostamatinib
+Q8IYT8|DB12010|Fostamatinib
+Q8N568|DB12010|Fostamatinib
+Q9UKE5|DB12010|Fostamatinib
+Q9Y2H9|DB12010|Fostamatinib
+Q13237|DB12010|Fostamatinib
+P35590|DB12010|Fostamatinib
+P33981|DB12010|Fostamatinib
+O75747|DB12010|Fostamatinib
+Q8NEV4|DB12010|Fostamatinib
+Q8IWU9|DB12095|Telotristat ethyl
+P36888|DB12141|Gilteritinib
+Q8WXA8|DB12141|Gilteritinib
+P36888|DB12267|Brigatinib
+P36888|DB12500|Fedratinib
+P00450|DB12965|Silver
+P36888|DB12978|Pexidartinib
+P00740|DB13150|Coagulation factor VII human
+P00740|DB13192|Antihemophilic factor human
+Q9UI33|DB13269|Dichlorobenzyl alcohol
+Q9Y5Y9|DB13269|Dichlorobenzyl alcohol
+Q9NY46|DB13269|Dichlorobenzyl alcohol
+Q8IWT1|DB13269|Dichlorobenzyl alcohol
+Q8WXA8|DB13345|Dihydroergocristine
+P23219|DB13346|Bufexamac
+P23219|DB13501|Bendazac
+O95180|DB13746|Bioallethrin
+O95180|DB13746|Bioallethrin
+Q9UI33|DB13746|Bioallethrin
+Q7Z3S7|DB13746|Bioallethrin
+Q8IZS8|DB13746|Bioallethrin
+Q15878|DB13746|Bioallethrin
+Q9Y5Y9|DB13746|Bioallethrin
+Q9NY46|DB13746|Bioallethrin
+P23219|DB13783|Acemetacin
+P47869|DB13872|Lormetazepam
+P48735|DB13874|Enasidenib
+P00740|DB13923|Emicizumab
+Q16518|DB13932|Voretigene neparvovec
+P43681|DB13952|Estradiol acetate
+P43681|DB13953|Estradiol benzoate
+P43681|DB13954|Estradiol cypionate
+P43681|DB13955|Estradiol dienanthate
+P43681|DB13956|Estradiol valerate
+Q9UI33|DB13961|Fish oil
+Q9Y5Y9|DB13961|Fish oil
+Q9NY46|DB13961|Fish oil
+Q8IWT1|DB13961|Fish oil
+P00740|DB13998|Lonoctocog alfa
+P00740|DB13999|Moroctocog alfa
+P23743|DB14001|alpha-Tocopherol succinate
+Q9UDX3|DB14001|alpha-Tocopherol succinate
+Q9UDX4|DB14001|alpha-Tocopherol succinate
+P23743|DB14002|D-alpha-Tocopherol acetate
+Q9UDX3|DB14002|D-alpha-Tocopherol acetate
+Q9UDX4|DB14002|D-alpha-Tocopherol acetate
+Q96L12|DB14481|Calcium phosphate dihydrate
+Q15493|DB14481|Calcium phosphate dihydrate
+P49411|DB14487|Zinc acetate
+Q06033|DB14487|Zinc acetate
+P08185|DB14487|Zinc acetate
+P0C0L5|DB14487|Zinc acetate
+P45381|DB14487|Zinc acetate
+Q9BY41|DB14487|Zinc acetate
+O14556|DB14487|Zinc acetate
+P01871|DB14487|Zinc acetate
+P00450|DB14487|Zinc acetate
+Q9BY41|DB14488|Ferrous gluconate
+P00450|DB14488|Ferrous gluconate
+Q9BY41|DB14489|Ferrous succinate
+P00450|DB14489|Ferrous succinate
+Q9BY41|DB14490|Ferrous ascorbate
+P00450|DB14490|Ferrous ascorbate
+Q9BY41|DB14491|Ferrous fumarate
+P00450|DB14491|Ferrous fumarate
+Q9BY41|DB14501|Ferrous glycine sulfate
+P00450|DB14501|Ferrous glycine sulfate
+P49411|DB14533|Zinc chloride
+Q06033|DB14533|Zinc chloride
+P08185|DB14533|Zinc chloride
+P0C0L5|DB14533|Zinc chloride
+P45381|DB14533|Zinc chloride
+Q9BY41|DB14533|Zinc chloride
+O14556|DB14533|Zinc chloride
+P01871|DB14533|Zinc chloride
+P00450|DB14533|Zinc chloride
+P14060|DB14539|Hydrocortisone acetate
+P14060|DB14540|Hydrocortisone butyrate
+P14060|DB14541|Hydrocortisone cypionate
+P14060|DB14542|Hydrocortisone phosphate
+P14060|DB14543|Hydrocortisone probutate
+P14060|DB14544|Hydrocortisone valerate
+P00740|DB14738|Turoctocog alfa pegol
