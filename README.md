@@ -33,6 +33,8 @@ k) prot_id_data - file containing protein id to index mapping for HIPPIE dataset
 
 l) MP_Hippie_combined - file containing protein id to index mapping for MPXV-Human dataset.
 
+The **code directory** contains all the code files.
+
 The **Drug_repurposing_analysis directory** contains all the input required for computing the Drug consensus score as well as the generated output files.
 
 Executable file:- DCSS.py
@@ -62,6 +64,10 @@ b) Fostamatinib_log.txt - contains docking result of Fostamatinib
 c) Glutamic_Acid__DB00142_log.txt - contains docking result of Glutamic_Acid
 
 d) NADH_log.txt - contains docking result of NADH
+
+**Usage**
+
+Step 1- to be added
 
 
 
