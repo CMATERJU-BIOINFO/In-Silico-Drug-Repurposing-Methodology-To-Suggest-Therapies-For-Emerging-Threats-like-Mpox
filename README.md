@@ -37,14 +37,16 @@ The **Drug_repurposing_analysis directory** contains all the input required for 
 
 Executable file:- DCSS.py
 
-Input Files:- 
+**Input Files:-**
+
 a) DrugBank.txt - contains mapping of human protein and their drug targets.
 
 b) trgts dbrti.txt - contains the human protein ids succesfully identified as interacting with MPXV by our proposed model. 
 
 c) drugbank idnamemapping.txt - contains mapping of Drugbank Id and their corresponding drug name.
 
-Output Files:-
+**Output Files:-**
+
 d) Spreaders_drug_map.txt - returns the drugbank Id of the matched drugs of our MPXV targetted Human proteins(mentioned in trgts dbrti.txt)
 
 e) Spreader_drug_name.txt - returns the drug name of the corresponding drug Ids of Output file Spreaders_drug_map.txt.
