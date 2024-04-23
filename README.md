@@ -33,7 +33,7 @@ j) combined_test_edge_neg_data.csv - negative edge index file (MPXV-Human datase
 
 k) prot_id_data.xlsx - file containing protein id to index mapping for HIPPIE dataset.
 
-l) MP_Hippie_combined.csv - file containing protein id to index mapping for MPXV-Human dataset.
+l) MP_Hippie_combined.xlsx - file containing protein id to index mapping for MPXV-Human dataset.
 
 m) Hippie_data_out.csv - file containing the 73-dimensional graphlet features for the HIPPIE dataset.
 
@@ -42,6 +42,9 @@ n) combined_graphlet.csv - file containing the 73-dimensional graphlet features 
 o) pfeature_hippie_plus_monkey_0.13.csv - file containing the 196-dimensional composition-based features for the MPXV-Human dataset.
 
 p) combined_graphlet_plus_pfeature_0.13.csv - file containing the 269-dimensional ensembled features for the MPXV-Human dataset.
+
+q) pfeature.csv - file containing the 976-dimensional composition-based features for the MPXV-Human dataset.
+
 
 **code directory**  
 ----------------------------------------------------------------------------------------------------------------------------
