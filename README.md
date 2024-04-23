@@ -5,9 +5,9 @@
 
 Monkeypox (Mpox), a zoonotic illness triggered by the monkeypox virus (MPXV), poses a significant threat since it may be transmitted and has no cure. This work introduces a computational method to predict protein-protein interactions (PPIs) during MPXV infection. The objective is to discover prospective drug targets and repurpose current potential Food and Drug Administration (FDA) drugs for therapeutic purposes. In this work, ensemble features, comprising 2-5 node graphlet attributes and protein composition-based features are utilized for deep learning (DL) models to predict PPIs. The technique that is used here demonstrated an excellent prediction performance for PPI on both the Human Integrated Protein-Protein Interaction Reference (HIPPIE) and MPXV-Human PPI datasets. In addition, the human protein targets for MPXV have been identified accurately along with the detection of possible therapeutic targets. Furthermore, the validation process included conducting docking research studies on potential FDA drugs like NADH, Fostamatinib, Glutamic acid, Cannabidiol, Copper, and Zinc in DrugBank identified via research on drug repurposing and the drug consensus score (DCS) for MPXV. This has been achieved by employing the primary crystal structures of MPXV, which are now accessible. The results of our study emphasize the effectiveness of using ensemble feature-based PPI prediction to understand the molecular processes involved in viral infection and to aid in the development of repurposed drugs for emerging infectious diseases such as, but not limited to, Mpox.
 
-**Repository Contents**
+## Repository Contents
 
-The **Data directory** contains all the data files referred by our code to run our proposed model and conduct the experiments.
+The **Data directory** contains all the data files referred to by our code to run our proposed model and conduct the experiments.
 
 a) Edge.csv - The protein interaction pairs of the HIPPIE dataset.
 
@@ -65,7 +65,7 @@ c) Glutamic_Acid__DB00142_log.txt - contains docking result of Glutamic_Acid
 
 d) NADH_log.txt - contains docking result of NADH
 
-**Usage**
+## Usage
 
 Step 1- to be added
 
