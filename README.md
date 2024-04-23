@@ -48,7 +48,14 @@ q) pfeature.csv - file containing the 976-dimensional composition-based features
 
 **code directory**  
 ----------------------------------------------------------------------------------------------------------------------------
-It contains all the code files.
+
+It contains all the .ipynb code files. There are the following subfolders -
+
+a) **various_feature_selection_comparison_experiments** - It contains the .ipynb files to compare the performance of various feature selection techniques like FastICA, PCA, and Various thresholds with 0.13 as the variance parameter on the HIPPIE dataset. The name of the files is in the format 'ensemble_pfeature_graphlet_hippie_XXX.ipynb' where XXX signifies pca, ica and 0.13 for the three feature selection methods mentioned earlier.
+
+b) **feature_selection_pfeature** - It contains the .ipynb files to compare the performance of the variance threshold feature selection technique with different variance parameters ranging from 0.13 to 0.20 on the HIPPIE dataset with only composition-based features. The name of the files is in the format 'WD_pfeature_X_XX_hippie.ipynb' where X_XX signifies the range from 0_05 to 0_20 for the different variance threshold parameters ranging from 0.13 to 0.20 mentioned earlier.
+
+c) **ensembled_graphlet_plus_pfeatures_on_hippie_code** - It contains the .ipynb files to compare the performance of the variance threshold feature selection technique with different variance parameters ranging from 0.13 to 0.20 on the HIPPIE dataset  with ensembled graphlet along with composition-based features. The name of the files is in the format 'ensemble_pfeature_graphlet_hippie_X.XX.ipynb' where X.XX signifies the range from 0_05 to 0_20 for the different variance threshold parameters ranging from 0.13 to 0.20 mentioned earlier.
 
 **Drug_repurposing_analysis directory** 
 ----------------------------------------------------------------------------------------------------------------------------
