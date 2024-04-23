@@ -59,6 +59,16 @@ c) **ensembled_graphlet_plus_pfeatures_on_hippie_code** - It contains the .ipynb
 
 d) **various_gnn_models_comparison_experiments** - It contains the .ipynb files to compare the performance of various Graph Neural Network(GNN) models like GAT, GCN, and GraphSAGE (proposed) on the HIPPIE dataset. The name of the files is in the format 'ensemble_pfeature_graphlet_hippie_XXX.ipynb' where XXX signifies gcn, gat and 0.13 for the three GNN models mentioned earlier.
 
+e)
+
+f) **MPXV-Human experiment code** - It contains the .ipynb files for the experiments on MPXV-Human dataset like
+
+  i) combined_train_ensemble_0_13.ipynb - considering graphlet and composition-based features with a Variance threshold of         0.13.
+  ii) combined_train_pfeature_0_13.ipynb - considering only composition-based features with a Variance threshold of 0.13.
+
+  iii) combined_train_graphlet2.ipynb - considering only 73-dimensional graphlet features (upto 5 nodes).
+
+
 **Drug_repurposing_analysis directory** 
 ----------------------------------------------------------------------------------------------------------------------------
 It contains all the input required for computing the Drug consensus score and the generated output files.
