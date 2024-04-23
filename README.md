@@ -61,12 +61,7 @@ d) **various_gnn_models_comparison_experiments** - It contains the .ipynb files 
 
 e)
 
-f) **MPXV-Human experiment code** - It contains the .ipynb files for the experiments on MPXV-Human dataset like
-
-  i) combined_train_ensemble_0_13.ipynb - considering graphlet and composition-based features with a Variance threshold of         0.13.
-  ii) combined_train_pfeature_0_13.ipynb - considering only composition-based features with a Variance threshold of 0.13.
-
-  iii) combined_train_graphlet2.ipynb - considering only 73-dimensional graphlet features (upto 5 nodes).
+f) **MPXV-Human experiment code** - It contains the .ipynb files for the experiments on MPXV-Human dataset like **combined_train_ensemble_0_13.ipynb** (considering graphlet and composition-based features with a Variance threshold of 0.13) , **combined_train_pfeature_0_13.ipynb** (considering only composition-based features with a Variance threshold of 0.13) and, **combined_train_graphlet2.ipynb** (considering only 73-dimensional graphlet features (upto 5 nodes)).
 
 
 **Drug_repurposing_analysis directory** 
