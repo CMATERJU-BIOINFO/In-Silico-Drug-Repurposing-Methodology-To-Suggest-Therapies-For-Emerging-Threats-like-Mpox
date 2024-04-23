@@ -49,7 +49,7 @@ q) pfeature.csv - file containing the 976-dimensional composition-based features
 **code directory**  
 ----------------------------------------------------------------------------------------------------------------------------
 
-It contains all the .ipynb code files. There are the following subfolders -
+It contains all the  .ipynb code files. There are the following subfolders -
 
 a) **various_feature_selection_comparison_experiments** - It contains the .ipynb files to compare the performance of various feature selection techniques like FastICA, PCA, and Variance threshold with 0.13 as the variance parameter (proposed) on the HIPPIE dataset. The name of the files is in the format 'ensemble_pfeature_graphlet_hippie_XXX.ipynb' where XXX signifies pca, ica and 0.13 for the three feature selection methods mentioned earlier.
 
@@ -59,9 +59,9 @@ c) **ensembled_graphlet_plus_pfeatures_on_hippie_code** - It contains the .ipynb
 
 d) **various_gnn_models_comparison_experiments** - It contains the .ipynb files to compare the performance of various Graph Neural Network(GNN) models like GAT, GCN, and GraphSAGE (proposed) on the HIPPIE dataset. The name of the files is in the format 'ensemble_pfeature_graphlet_hippie_XXX.ipynb' where XXX signifies gcn, gat and 0.13 for the three GNN models mentioned earlier.
 
-e)
+e) **various_node_features_comparison_experiments** - It contains the .ipynb files for the experiments on HIPPIE dataset with different node features like **ensemble_pfeature_graphlet_hippie_0.13.ipynb** (considering graphlet and composition-based features with a Variance threshold of 0.13) , **WD_pfeature_0_13_hippie.ipynb** (considering only composition-based features with a Variance threshold of 0.13) and, **graphlet_hippie6.ipynb** (considering only 73-dimensional graphlet features (upto 5 nodes)).
 
-f) **MPXV-Human experiment code** - It contains the .ipynb files for the experiments on MPXV-Human dataset like **combined_train_ensemble_0_13.ipynb** (considering graphlet and composition-based features with a Variance threshold of 0.13) , **combined_train_pfeature_0_13.ipynb** (considering only composition-based features with a Variance threshold of 0.13) and, **combined_train_graphlet2.ipynb** (considering only 73-dimensional graphlet features (upto 5 nodes)).
+f) **MPXV-Human experiment code** - It contains the .ipynb files for the experiments on MPXV-Human dataset with different node features like **combined_train_ensemble_0_13.ipynb** (considering graphlet and composition-based features with a Variance threshold of 0.13) , **combined_train_pfeature_0_13.ipynb** (considering only composition-based features with a Variance threshold of 0.13) and, **combined_train_graphlet2.ipynb** (considering only 73-dimensional graphlet features (upto 5 nodes)).
 
 
 **Drug_repurposing_analysis directory** 
