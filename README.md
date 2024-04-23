@@ -102,11 +102,11 @@ d) NADH_log.txt - contains docking result of NADH
 
 # Usage
 
-Step 1- Upload Required files to Specified Path: Place all the necessary files on any specified path. For example, in the code if the path is mentioned as excel_file = "/content/drive/MyDrive/GSPPI/prot_id_data.xlsx", then the prot_id_data.xlsx file has been uploaded in Google drive -> GSPPI folder .
+**Step 1-** Upload Required files to Specified Path: Place all the necessary files on any specified path. For example, in the code if the path is mentioned as excel_file = "/content/drive/MyDrive/GSPPI/prot_id_data.xlsx", then the prot_id_data.xlsx file has been uploaded in Google drive -> GSPPI folder .
 
-Step 2- Update Path in IPython Notebook: Open the IPython Notebook (*.ipynb) file in an environment that supports Jupyter Notebooks. Update the path of the dataset and other input files in the code to specify the path where the required files (mentioned in that .ipynb file which is going to be executed) have been uploaded in Step 1. Also, the path where the model is to be saved needs to be updated in the code. This typically involves modifying a variable or string representing the path.
+**Step 2-** Update Path in IPython Notebook: Open the IPython Notebook (*.ipynb) file in an environment that supports Jupyter Notebooks. Update the path of the dataset and other input files in the code to specify the path where the required files (mentioned in that .ipynb file which is going to be executed) have been uploaded in Step 1. Also, the path where the model is to be saved needs to be updated in the code. This typically involves modifying a variable or string representing the path.
 
-Step 3- Run the Notebook: Execute the cells in the IPython Notebook sequentially. Ensure that all the necessary dependencies are installed in your environment.
+**Step 3-** Run the Notebook: Execute the cells in the IPython Notebook sequentially. Ensure that all the necessary dependencies are installed in your environment.
 
 
 
